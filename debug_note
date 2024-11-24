@@ -10,3 +10,7 @@ Install guest additions:
 https://linuxconfig.org/installing-virtualbox-guest-additions-on-ubuntu-24-04
 Enable Shared Clipboard and / or Drag n Drop:
 General -> Advanced -> enable Shared Clipboard and / or Drag n Drop (depends on your use case)
+
+3. When using vi, arrow keys returns A / B / C / D instead of moving
+Install vim:
+sudo apt install vim
