@@ -5,3 +5,8 @@ Increase processor core:
 General -> System -> Processor -> increase processors (preferrably increase to 4 cores or more)
 Then try install Ubuntu again.
 
+2. Cannot copy & paste between host and guest devices
+Install guest additions:
+https://linuxconfig.org/installing-virtualbox-guest-additions-on-ubuntu-24-04
+Enable Shared Clipboard and / or Drag n Drop:
+General -> Advanced -> enable Shared Clipboard and / or Drag n Drop (depends on your use case)
