@@ -1,0 +1,7 @@
+1. Ubuntu installation freezes in new VM
+Increase RAM:
+General -> System -> Motherboard -> increase Base Memory (preferrably increase to 8GB or more)
+Increase processor core:
+General -> System -> Processor -> increase processors (preferrably increase to 4 cores or more)
+Then try install Ubuntu again.
+
