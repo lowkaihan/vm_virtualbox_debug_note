@@ -21,3 +21,8 @@ sudo apt install libreoffice-writer libreoffice-calc libreoffice-impress libreof
 
 5. Cannot find shared folder in guest machine
 https://askubuntu.com/questions/456400/why-cant-i-access-a-shared-folder-from-within-my-virtualbox-machine
+
+6. Cannot open firefox. Face error:   mkdir: cannot create directory ‘/run/user/0’: Permission denied
+pending fixes.
+Can refer this?
+https://github.com/openzfs/zfs/discussions/13678
