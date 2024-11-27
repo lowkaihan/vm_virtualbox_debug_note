@@ -14,3 +14,10 @@ General -> Advanced -> enable Shared Clipboard and / or Drag n Drop (depends on 
 3. When using vi, arrow keys returns A / B / C / D instead of moving
 Install vim:
 sudo apt install vim
+
+4. When using libreoffice, cannot open libreoffice tools (writer, calc, presentation etc).
+Do below:
+sudo apt install libreoffice-writer libreoffice-calc libreoffice-impress libreoffice-draw libreoffice-base
+
+5. Cannot find shared folder in guest machine
+https://askubuntu.com/questions/456400/why-cant-i-access-a-shared-folder-from-within-my-virtualbox-machine
